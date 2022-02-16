@@ -1,0 +1,121 @@
+მთავარი ადმინი
+
+    უფლებები
+
+        სრული უფლება საიტზე
+        სრული ხილვა საიტზე
+
+    მოვალოებები
+
+        არეგისტრირებს მომხმარებლებს და ანიჭებს პოზიციებს
+
+დეპარტამენტის უფროსი
+
+    უფლებები
+
+        სრული უფლება მხოლოდ თავიანთ დეპარტამენტზე
+        სრული ხილვა მხოლოდ თავიანთ დეპარტემენზე
+
+    მოვალოებები
+
+        ანიჭებს საქმეს თანამშრომელს
+            საქმე
+            დედლაინი
+        
+        განიხილავენ თანამშრომლის საქმის პროგრესს, დამთავრებისას წყვიტავენ დასრულებული არის თუ არა სამუშაო
+
+        აფასებენ საქმეს
+
+თანამშრომელი
+
+    უფლებები
+
+        ხედავენ მხოლოდ მათ მინიჭებულ საქმეს და მასთან დაკავშირებულ პარამეტრებს
+        მხოლოდ თავიანთ საქმეებზე შეუძლიათ ცვლილებების დატანა
+
+    მოვალეობა
+
+        ენიჭებათ საქმე ამ სისტემის დახმარებით, უნდა ატვირთოს ლინკი და გაუგზავნოს უფროსს
+
+სისტემა
+
+    მომხმარებლების დამატება მოხდება ადმინის მიერ, და ასევე უფროს შეეძლება მხოლოდ თავიანთ დეპარტამენტზე დამატება
+
+    თანამშრომლებს მიენიჩებათ სამუშაო საიტის მეშვეობით
+    სამუშაოს ექნება თავისი დახასიათება, დედლაინი და მიენიჭება კონკრეტულ პერსონალს
+    დასრულებისას გაიგზავნება უფროსთან რომელიც გადაწყვიტავს მართლა დასრულებული არის თუ არა
+
+
+
+Menu
+
+    Employee
+        Profile
+            Picture
+            Name
+            Position
+            Rank
+            Email
+            Date Joined
+            Change Password
+        Tasks
+            See task & deadline
+            Upload link & Complete
+        Completed Tasks (?)
+            Check completed tasks
+            Update a previously completed task link
+
+    Manager
+        Profile
+            Picture
+            Name
+            Position
+            Rank
+            Email
+            Date Joined
+            Change Password
+        Department
+            Check info of employees in their department
+            View individual employees tasks
+            Update the task (?)
+            Can reset password
+            Can change user information in their department
+            Can delete users from department
+        Tasks
+            See task & deadline
+            Upload link & complete
+        Completed Tasks
+            View tasks completed from employees in their department with links
+            See task in more detail
+            Accept or reject task
+        Add Tasks
+            Can give tasks to employees in their department & set deadlines
+        Add user
+            Can add users to the department
+
+
+    Admin X
+        Profile X
+            Picture X
+            Name X
+            Position X
+            Rank X
+            Email X
+            Date Joined X
+            Change Password X
+        Department
+            Check info of employees in all departments X
+            View individual employees tasks X
+            Can reset password X
+            Can change user information in all departments X
+            Can delete users from department X
+        Tasks X
+            See task & deadline X
+            Upload link & complete X
+        Completed Tasks
+            View tasks completed from all employees with links X
+            See task in more detail X
+        Add Tasks X
+            Can give tasks to employees to all departments & set deadlines X
+        Add user X
+            Can add users to any department X
